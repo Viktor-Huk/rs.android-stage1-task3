@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CombinatorTests" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-05-05T20:01:33" hostname="endless" time="0.019">
+  <properties/>
+  <testcase name="testCheckChoose1" classname="CombinatorTests" time="0.003"/>
+  <testcase name="testCheckChoose2" classname="CombinatorTests" time="0.002"/>
+  <testcase name="testCheckChoose3" classname="CombinatorTests" time="0.002"/>
+  <testcase name="testCheckChoose4" classname="CombinatorTests" time="0.004"/>
+  <testcase name="testCheckChoose5" classname="CombinatorTests" time="0.001"/>
+  <testcase name="testCheckChoose6" classname="CombinatorTests" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
